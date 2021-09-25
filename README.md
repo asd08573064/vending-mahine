@@ -14,3 +14,6 @@ See the top module to know the interaction between each module and how the vendi
 
 ## How top module works
 <img width="622" alt="截圖 2021-09-25 下午9 20 10" src="https://user-images.githubusercontent.com/43490777/134773022-a08379f3-03f3-4fe8-b7d1-7eaa2b6041ba.png">
+
+## FPGA I/O Port
+![Uploading 截圖 2021-09-25 下午9.22.06.png…]()
