@@ -16,4 +16,4 @@ See the top module to know the interaction between each module and how the vendi
 <img width="622" alt="截圖 2021-09-25 下午9 20 10" src="https://user-images.githubusercontent.com/43490777/134773022-a08379f3-03f3-4fe8-b7d1-7eaa2b6041ba.png">
 
 ## FPGA I/O Port
-![Uploading 截圖 2021-09-25 下午9.22.06.png…]()
+<img width="734" alt="截圖 2021-09-25 下午9 22 47" src="https://user-images.githubusercontent.com/43490777/134773090-af63fd47-d807-4d27-9d7a-309084e59c42.png">
